@@ -49,4 +49,5 @@ Digital Media Design draws on the 1920s legacy of The Bauhaus, the 1960s emergen
 
 ## References
 Mitchell, Mark & Brown Oliver (2013) "Understanding the Needs of Creative Coders". *OzCHI '13: Proceedings of the 25th Australian Computer-Human Interaction Conference: Augmentation, Application, Innovation, Collaboration.* November 2013 Pages 143–146 https://doi.org/10.1145/2541016.2541096
+
 Hansen, Stig Møller. 2o19. *An investigation towards bespoke Creative Coding programming courses in graphic design education.* Aarhus University
