@@ -40,7 +40,7 @@ Digital Media Design draws on the 1920s legacy of The Bauhaus, the 1960s emergen
 - Noble, Joshua. 2012. *Programming Interactivity.* 2nd ed. Beijing: O’Reilly.
 - Peters, Keith. 2013.*Playing with Chaos: Programming Fractals and Strange Attractors in JavaScript*
 - Reas, Casey and Ben Fry. 2007. *Processing: A Programming Handbook for Visual Designers and Artists.* Cambridge, Mass: MIT.
-- Reas, Casey. 2010. *Form + Code in Design, Art, and Architecture*
+- Reas, Casey. 2010. *Form + Code in Design, Art, and Architecture.* Princeton Architectural Press
 - Richardson, Andrew. 2016. *Data-Driven Graphic Design: Creative Coding for Visual Communication*
 - Rodenbroeker, Tim. 2022. "What is Creative Coding?" Available online: https://timrodenbroeker.de/
 - Terzidis, Kostas. 2009. *Algorithms for Visual Design Using the Processing Language*
