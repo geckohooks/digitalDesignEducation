@@ -10,12 +10,12 @@ Digital Media Design draws on the 1920s legacy of The Bauhaus, the 1960s emergen
 - Ben Fry
 - Emily Gobeille http://zanyparade.com
 - Patrik Huebner https://www.patrik-huebner.com/
-- Golan Levin
+- Golan Levin http://www.flong.com/
 - Sol LeWitt
-- John Maeda
+- John Maeda https://maedastudio.com/
 - Manfred Mohr
 - Leon Harmon and Ken Knowlton - Studies in Perception
-- Casey Reas
+- Casey Reas https://reas.com/
 - Ann Ridler https://annaridler.com/
 - Jennifer Steinkamp https://jsteinkamp.com/html/all.htm
 - Joan Truckenbrod https://joantruckenbrod.com/
