@@ -47,6 +47,6 @@ Digital Media Design draws on the 1920s legacy of The Bauhaus, the 1960s emergen
 - Terzidis, Kostas. 2009. *Algorithms for Visual Design Using the Processing Language.* John Wiley 
 - Zhai, Sean. 2020. "Creative Coding: Perspectives & Case Studies - How to choose creative coding tools." In: Medium.com. Available online: https://javascript.plainenglish.io/all-about-creative-coding-e79268d944e8
 
-##References
+## References
 Mitchell, Mark & Brown Oliver (2013) "Understanding the Needs of Creative Coders". *OzCHI '13: Proceedings of the 25th Australian Computer-Human Interaction Conference: Augmentation, Application, Innovation, Collaboration.* November 2013 Pages 143–146https://doi.org/10.1145/2541016.2541096
 
