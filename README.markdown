@@ -5,16 +5,17 @@ Digital Media Design draws on the 1920s legacy of The Bauhaus, the 1960s emergen
 
 ## References
 <ol>
-<li>Zhai, Sean (2020) "Creative Coding: Perspectives & Case Studies - How to choose creative coding tools." In: Medium.com. Available online at: https://javascript.plainenglish.io/all-about-creative-coding-e79268d944e8</li>
-<li>Maeda, John (2001) Design By Numbers, MIT Press</li>
-<li>Lillian Schwartz</li>
-<li>Edward Zajec</li>
-<li>Manfred Mohr</li>
-<li>Roman Verostko</li>
-<li>Golan Levin</li>
-<li>Casey Reas</li>
-<li>Ben Fry</li>
-<li>Sol LeWitt</li>
-<li>Leon Harmon and Ken Knowlton - Studies in Perception</li>
-<li>ISEA: International Symposium on Electronic Art</li>
+  <li>Zhai, Sean (2020) "Creative Coding: Perspectives & Case Studies - How to choose creative coding tools." In: Medium.com. Available online: https://javascript.plainenglish.io/all-about-creative-coding-e79268d944e8</li>
+  <li>Maeda, John (2001) Design By Numbers, MIT Press</li>
+  <li>Lillian Schwartz</li>
+  <li>Edward Zajec</li>
+  <li>Manfred Mohr</li>
+  <li>Roman Verostko</li>
+  <li>Golan Levin</li>
+  <li>Casey Reas</li>
+  <li>Ben Fry</li>
+  <li>Sol LeWitt</li>
+  <li>Leon Harmon and Ken Knowlton - Studies in Perception</li>
+  <li>ISEA: International Symposium on Electronic Art</li>
+  <li>Rune Madsen (2022) Programming Design Systems. Available online: https://programmingdesignsystems.com/</li>
 </ol>
