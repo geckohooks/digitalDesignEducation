@@ -3,7 +3,7 @@
 ## What is Creative Coding?
 As Mark Mitchell and Oliver Brown suggest, creative Coding is '...a discovery-based process consisting of exploration, iteration, and reflection, using code as a primary medium, towards a media artefact designed for an artistic context.' (2013, p.143) It's different from Software Development in the traditional sense because it's geared towards arts, design and experiential results; and its method is chiefly about creating through experimentation (i.e. trying things out and seeing what works), rather than the more laborious and methodical Computer Science approach. 
 
-Digital Media Design draws on the 1920s legacy of The Bauhaus, the 1960s emergence of Cybernetics, the rise of New Media in the 1990s and 2000s, and with the more recent (2010s -> present) development of Creative Coding and Design Thinking. 
+Digital Media Design draws on the 1920s legacy of The Bauhaus, the 1960s emergence of Cybernetics, the rise of New Media in the 1990s and 2000s, and with the more recent (2010s -> present) flourishing of Creative Coding and Design Thinking. 
 
 ## References
 ### Creative Coders / Artists
