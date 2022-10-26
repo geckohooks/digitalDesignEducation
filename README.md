@@ -6,24 +6,24 @@ Digital Media Design draws on the 1920s legacy of The Bauhaus, the 1960s emergen
 ## References
 ### Creative Coders / Artists
 
-KT Duffyhttps://ktduffyprojects.com/
-Ben Fry
-Emily Gobeille zanyparade.com
-Patrik Huebner https://www.patrik-huebner.com/
-Golan Levin
-Sol LeWitt
-John Maeda
-Manfred Mohr
-Leon Harmon and Ken Knowlton - Studies in Perception
-Casey Reas
-Ann Ridler https://annaridler.com/
-Jennifer Steinkamp https://jsteinkamp.com/html/all.htm
-Joan Truckenbrod https://joantruckenbrod.com/
-Lillian Schwartz
-Roman Verostko
-Camille Utterback https://camilleutterback.com/
-https://www.design-io.com/
-Edward Zajec
+-KT Duffyhttps://ktduffyprojects.com/
+-Ben Fry
+-Emily Gobeille zanyparade.com
+-Patrik Huebner https://www.patrik-huebner.com/
+-Golan Levin
+-Sol LeWitt
+-John Maeda
+-Manfred Mohr
+-Leon Harmon and Ken Knowlton - Studies in Perception
+-Casey Reas
+-Ann Ridler https://annaridler.com/
+-Jennifer Steinkamp https://jsteinkamp.com/html/all.htm
+-Joan Truckenbrod https://joantruckenbrod.com/
+-Lillian Schwartz
+-Roman Verostko
+-Camille Utterback https://camilleutterback.com/
+-https://www.design-io.com/
+-Edward Zajec
 
 
 ### Books, Articles and Websites
