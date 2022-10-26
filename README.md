@@ -30,7 +30,7 @@ Digital Media Design draws on the 1920s legacy of The Bauhaus, the 1960s emergen
 
 - Bohnacker, Hartmut. 2018. *Generative Design: Visualize, Program, and Create with Processing.* New York: Princeton Architectural Press
 - Groß, Benedikt, Bohnacker, Hartmut, Laub, Julia and Claudius Lazzeroni. 2018. *Generative Design: Visualize, Program, and Create with JavaScript in p5.js.* New York: Princeton Architectural Press
-- ISEA: International Symposium on Electronic Art
+- ISEA: International Symposium on Electronic Art. https://www.isea-international.org/
 - Klanten, Robert, Ehmann, Sven and Lukas Feireiss. 2011. *A Touch of Code: Interactive Installations and Experiences.* Berlin: Gestalten.
 - Madsen, Rune. 2022. *Programming Design Systems.* Available online: https://programmingdesignsystems.com/
 - Maeda, John. 2001. *Design By Numbers.* MIT Press
