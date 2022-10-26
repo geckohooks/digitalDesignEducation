@@ -18,4 +18,13 @@ Digital Media Design draws on the 1920s legacy of The Bauhaus, the 1960s emergen
   <li>Leon Harmon and Ken Knowlton - Studies in Perception</li>
   <li>ISEA: International Symposium on Electronic Art</li>
   <li>Rune Madsen (2022) Programming Design Systems. Available online: https://programmingdesignsystems.com/</li>
+  <li>KLANTEN, Robert, Sven EHMANN and Lukas FEIREISS. 2011. A Touch of Code: Interactive Installations and Experiences. Berlin: Gestalten.</li>
+  <li>NOBLE, Joshua J. 2012. Programming Interactivity. 2nd ed. Beijing: O’Reilly.</li>
+  <li>REAS, Casey and Ben FRY. 2007. Processing: A Programming Handbook for Visual Designers and Artists. Cambridge, Mass: MIT.</li>
+  <li>Generative Design: Visualize, Program, and Create with JavaScript in p5.js by Benedikt Groß</li>
+  <li>Kostas Terzidis () Algorithms for Visual Design Using the Processing Language</li>
+  <li>Casey Reas () Form+Code in Design, Art, and Architecture</li>
+  <li>Andrew Richardson () Data-Driven Graphic Design: Creative Coding for Visual Communication</li>
+  <li>John Maeda () Creative Code: Aesthetics + Computation</li>
+  <li>Hartmut Bohnacker () Generative Design: Visualize, Program, and Create with Processing</li>
 </ol>
