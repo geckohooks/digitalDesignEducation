@@ -8,7 +8,7 @@ Digital Media Design draws on the 1920s legacy of The Bauhaus, the 1960s emergen
 
 - KT Duffy https://ktduffyprojects.com/
 - Ben Fry
-- Emily Gobeille [zanyparade.com]
+- Emily Gobeille http://zanyparade.com
 - Patrik Huebner https://www.patrik-huebner.com/
 - Golan Levin
 - Sol LeWitt
