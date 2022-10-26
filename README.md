@@ -5,7 +5,7 @@ As Mark Mitchell and Oliver Brown suggest, creative Coding is '...a discovery-ba
 
 Digital Media Design draws on the 1920s legacy of The Bauhaus, the 1960s emergence of Cybernetics, the rise of New Media in the 1990s and 2000s, and with the more recent (2010s -> present) flourishing of Creative Coding and Design Thinking. 
 
-## References
+## Where can I find out more?
 ### Creative Coders / Artists
 
 - KT Duffy https://ktduffyprojects.com/
