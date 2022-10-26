@@ -36,7 +36,7 @@ Digital Media Design draws on the 1920s legacy of The Bauhaus, the 1960s emergen
 - Maeda, John. 2001. *Design By Numbers.* MIT Press
 - Maeda, John. 2004. *Creative Code: Aesthetics + Computation.* Thames and Hudson 
 - Maeda, John & Tega Brain. 2021. *Code as Creative Medium - A Handbook for Computational Art and Design.* MIT Press.
-- Munari, Bruno. 1966. *Design as Art*
+- Munari, Bruno. 1966. *Design as Art.* Penguin Classics
 - Noble, Joshua. 2012. *Programming Interactivity.* 2nd ed. Beijing: O’Reilly.
 - Reas, Casey and Ben Fry. 2007. *Processing: A Programming Handbook for Visual Designers and Artists.* Cambridge, Mass: MIT.
 - Reas, Casey. 2010. *Form + Code in Design, Art, and Architecture.* Princeton Architectural Press
