@@ -6,23 +6,23 @@ Digital Media Design draws on the 1920s legacy of The Bauhaus, the 1960s emergen
 ## References
 ###Creative Coders / Artists
 <ol>
-  <li>Maeda, John (2001) Design By Numbers, MIT Press</li>
-  <li>Lillian Schwartz</li>
-  <li>Edward Zajec</li>
-  <li>Manfred Mohr</li>
-  <li>Roman Verostko</li>
-  <li>Golan Levin</li>
-  <li>Casey Reas</li>
+  <li>KT Duffy  https://ktduffyprojects.com/</li>
   <li>Ben Fry</li>
+  <li>Emily Gobeille zanyparade.com</li>
+  <li>Golan Levin</li>
   <li>Sol LeWitt</li>
+  <li>John Maeda</li>
+  <li>Manfred Mohr</li>
   <li>Leon Harmon and Ken Knowlton - Studies in Perception</li>
+  <li>Casey Reas</li>
   <li>Ann Ridler https://annaridler.com/
-  <li>Camille Utterback https://camilleutterback.com/
-  <li>Emily Gobeille zanyparade.com
-  <li>https://www.design-io.com/
   <li>Jennifer Steinkamp https://jsteinkamp.com/html/all.htm
   <li>Joan Truckenbrod https://joantruckenbrod.com/
-  <li>KT Duffy  https://ktduffyprojects.com/
+  <li>Lillian Schwartz</li>    
+  <li>Roman Verostko</li>
+  <li>Camille Utterback https://camilleutterback.com/
+  <li>https://www.design-io.com/
+  <li>Edward Zajec</li>
  </ol> 
 
 ###Books
@@ -38,6 +38,7 @@ Digital Media Design draws on the 1920s legacy of The Bauhaus, the 1960s emergen
   <li>Casey Reas (2010) Form+Code in Design, Art, and Architecture</li>
   <li>Andrew Richardson (2016) Data-Driven Graphic Design: Creative Coding for Visual Communication</li>
   <li>John Maeda & Tega Brain(2021) Creative Code: Aesthetics + Computation</li>
+    <li>Maeda, John (2001) Design By Numbers, MIT Press</li>
   <li>Hartmut Bohnacker (2009) Generative Design: Visualize, Program, and Create with Processing</li>
   <li>Keith Peters (2013) Playing with Chaos: Programming Fractals and Strange Attractors in JavaScript</li>
   <li>Bruno Munari (1966) Design as Art</li>
