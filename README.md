@@ -21,6 +21,7 @@ Creative Coding is an essential part of the Digital Media Design course, which i
 - Casey Reas https://reas.com/
 - Ann Ridler https://annaridler.com/
 - Jennifer Steinkamp https://jsteinkamp.com/html/all.htm
+- School for Poetic Computation https://sfpc.io/people/
 - Lillian Schwartz http://lillian.com/
 - Joan Truckenbrod https://joantruckenbrod.com/
 - Camille Utterback https://camilleutterback.com/
@@ -44,9 +45,10 @@ Creative Coding is an essential part of the Digital Media Design course, which i
 - Reas, Casey and Ben Fry. 2007. *Processing: A Programming Handbook for Visual Designers and Artists.* Cambridge, Mass: MIT.
 - Reas, Casey. 2010. *Form + Code in Design, Art, and Architecture.* Princeton Architectural Press
 - Richardson, Andrew. 2016. *Data-Driven Graphic Design: Creative Coding for Visual Communication* Fairchild Books
-- ACM SIGGRAPH (Special Interest Group on Computer Graphics and Interactive Techniques) https://digitalartarchive.siggraph.org/
 - Rodenbroeker, Tim. 2022. "What is Creative Coding?" Available online: https://timrodenbroeker.de/
+- SIGGRAPH (Special Interest Group on Computer Graphics and Interactive Techniques) https://digitalartarchive.siggraph.org/
 - Terzidis, Kostas. 2009. *Algorithms for Visual Design Using the Processing Language.* John Wiley 
+- Toplap: The home of Live Coding https://toplap.org/
 - Zhai, Sean. 2020. "Creative Coding: Perspectives & Case Studies - How to choose creative coding tools." In: Medium.com. Available online: https://javascript.plainenglish.io/all-about-creative-coding-e79268d944e8
 
 ## References
