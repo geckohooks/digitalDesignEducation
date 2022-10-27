@@ -9,23 +9,24 @@ Creative Coding is an essential part of the Digital Media Design course, which i
 ### Creative Coders / Artists
 
 - KT Duffy https://ktduffyprojects.com/
-- Ben Fry
+- https://www.design-io.com/
+- Ben Fry https://benfry.com/
 - Emily Gobeille http://zanyparade.com
+- Leon Harmon https://digitalartarchive.siggraph.org/person/leon-harmon/ and Ken Knowlton https://www.kenknowlton.com/
 - Patrik Huebner https://www.patrik-huebner.com/
 - Golan Levin http://www.flong.com/
-- Sol LeWitt
+- Sol LeWitt https://www.lissongallery.com/artists/sol-lewitt
 - John Maeda https://maedastudio.com/
-- Manfred Mohr
-- Leon Harmon and Ken Knowlton - Studies in Perception
+- Manfred Mohr http://www.emohr.com/
 - Casey Reas https://reas.com/
 - Ann Ridler https://annaridler.com/
 - Jennifer Steinkamp https://jsteinkamp.com/html/all.htm
+- Lillian Schwartz http://lillian.com/
 - Joan Truckenbrod https://joantruckenbrod.com/
-- Lillian Schwartz
-- Roman Verostko
 - Camille Utterback https://camilleutterback.com/
-- https://www.design-io.com/
-- Edward Zajec
+- Roman Verostko http://www.verostko.com/menu.html
+- John Whitney https://www.youtube.com/watch?v=jIv-EcX9tUs
+- Edward Zajec http://www.edwardzajec.com/
 
 
 ### Books, Articles and Websites
@@ -43,6 +44,7 @@ Creative Coding is an essential part of the Digital Media Design course, which i
 - Reas, Casey and Ben Fry. 2007. *Processing: A Programming Handbook for Visual Designers and Artists.* Cambridge, Mass: MIT.
 - Reas, Casey. 2010. *Form + Code in Design, Art, and Architecture.* Princeton Architectural Press
 - Richardson, Andrew. 2016. *Data-Driven Graphic Design: Creative Coding for Visual Communication* Fairchild Books
+- ACM SIGGRAPH (Special Interest Group on Computer Graphics and Interactive Techniques) https://digitalartarchive.siggraph.org/
 - Rodenbroeker, Tim. 2022. "What is Creative Coding?" Available online: https://timrodenbroeker.de/
 - Terzidis, Kostas. 2009. *Algorithms for Visual Design Using the Processing Language.* John Wiley 
 - Zhai, Sean. 2020. "Creative Coding: Perspectives & Case Studies - How to choose creative coding tools." In: Medium.com. Available online: https://javascript.plainenglish.io/all-about-creative-coding-e79268d944e8
