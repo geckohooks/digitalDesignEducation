@@ -8,21 +8,27 @@ Creative Coding is an essential part of the Digital Media Design course, which i
 ## Where can I find out more?
 ### Creative Coders / Artists
 
+- Liz Coulter-Smith https://linktr.ee/lizcoultersmith
 - KT Duffy https://ktduffyprojects.com/
 - https://www.design-io.com/
 - Ben Fry https://benfry.com/
 - Emily Gobeille http://zanyparade.com
 - Leon Harmon https://digitalartarchive.siggraph.org/person/leon-harmon/ and Ken Knowlton https://www.kenknowlton.com/
 - Patrik Huebner https://www.patrik-huebner.com/
+- Shelly Knotts https://shellyknotts.wordpress.com/about/
 - Golan Levin http://www.flong.com/
 - Sol LeWitt https://www.lissongallery.com/artists/sol-lewitt
 - John Maeda https://maedastudio.com/
 - Manfred Mohr http://www.emohr.com/
+- Joanna Moll https://www.janavirgin.com/
+- OFFAL - Orchestra for females and laptops https://offal.github.io/
 - Casey Reas https://reas.com/
 - Ann Ridler https://annaridler.com/
+- Bridget Riley https://www.tate.org.uk/art/artists/bridget-riley-1845
 - Jennifer Steinkamp https://jsteinkamp.com/html/all.htm
 - School for Poetic Computation https://sfpc.io/people/
 - Lillian Schwartz http://lillian.com/
+- Winnie Soon https://siusoon.net/
 - Joan Truckenbrod https://joantruckenbrod.com/
 - Camille Utterback https://camilleutterback.com/
 - Roman Verostko http://www.verostko.com/menu.html
