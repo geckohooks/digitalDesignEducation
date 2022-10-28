@@ -12,15 +12,15 @@ The idea of this timeline is to inform others (who perhaps don't know anything a
 What about analysis? If description is about what, where, when etc. then analysis is about 'so what'. In other words, it explains the impact or consequence of a situation. That might mean, the impact or consequence of the artwork: "this was one of the first algorithmic artworks, that intitiated interest in this way of working", or the consequence of some specific aspect you've described: "This artwork was created on a mainframe computer" (Description) so... "It had to be calculated on paper first, then transformed into code via punch cards, then fed into the computer" (analysis).
 
 ### Being Methodical
-In order for this submission to be high quality, it will need to be planned, researched, edited... and importantly, **discussed with your tutor at every stage.** 
+In order for this submission to be high quality, it will need to be planned, researched, edited... and group critique / peer feedback is an important part of this. 
 
 Please follow these steps:
 
 1) Research the list of artists/artworks provided widely. Read around the topic. Make notes.
 2) Narrow down which you'd like to write about on the basis of a) which you think are the most interesting projects / artists and b) which artworks you feel you have something interesting to talk about! 
-3) Discuss your options with your tutor: which you would like to talk about AND what you could say
+3) Discuss your options in class - which you would like to talk about AND what you could say
 4) Write a draft (and select/include images) and share it with your tutor
-5) Refine and improve go back to step 4 until the writing is strong
+5) Refine and improve 
 6) Submit
  
 ### Submission Details
