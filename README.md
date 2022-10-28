@@ -8,6 +8,7 @@ Creative Coding is an essential part of the Digital Media Design course, which i
 ## Where can I find out more?
 ### Creative Coders / Artists
 
+- Birgette Aga https://birgitteaga.com/
 - Liz Coulter-Smith https://linktr.ee/lizcoultersmith
 - KT Duffy https://ktduffyprojects.com/
 - https://www.design-io.com/
@@ -19,6 +20,7 @@ Creative Coding is an essential part of the Digital Media Design course, which i
 - Golan Levin http://www.flong.com/
 - Sol LeWitt https://www.lissongallery.com/artists/sol-lewitt
 - John Maeda https://maedastudio.com/
+- Coral Manton https://www.coralmanton.com/
 - Manfred Mohr http://www.emohr.com/
 - Joanna Moll https://www.janavirgin.com/
 - OFFAL - Orchestra for females and laptops https://offal.github.io/
@@ -34,7 +36,6 @@ Creative Coding is an essential part of the Digital Media Design course, which i
 - Roman Verostko http://www.verostko.com/menu.html
 - John Whitney https://www.youtube.com/watch?v=jIv-EcX9tUs
 - Edward Zajec http://www.edwardzajec.com/
-
 
 ### Books, Articles and Websites
 
