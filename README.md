@@ -42,6 +42,7 @@ Creative Coding is an essential part of the Digital Media Design course, which i
 - Bohnacker, Hartmut. 2018. *Generative Design: Visualize, Program, and Create with Processing.* New York: Princeton Architectural Press
 - Groß, Benedikt, Bohnacker, Hartmut, Laub, Julia and Claudius Lazzeroni. 2018. *Generative Design: Visualize, Program, and Create with JavaScript in p5.js.* New York: Princeton Architectural Press
 - ISEA: International Symposium on Electronic Art. https://www.isea-international.org/
+- Yiko Liu. 2020. "Creative Coding Art". Medium. Available online: https://medium.com/@yliu7882/creative-coding-art-f64e6e6cb64c
 - Klanten, Robert, Ehmann, Sven and Lukas Feireiss. 2011. *A Touch of Code: Interactive Installations and Experiences.* Berlin: Gestalten.
 - Madsen, Rune. 2022. *Programming Design Systems.* Available online: https://programmingdesignsystems.com/
 - Maeda, John. 2001. *Design By Numbers.* MIT Press
