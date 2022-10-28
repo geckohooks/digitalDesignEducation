@@ -5,7 +5,11 @@
 We would like to develop a Code Art History timeline collaboratively with you. We'll take care of the coding element to make this an interactive platform, but during this module, we'd like each of you to write a single entry for the timeline. Pick one creative coding artwork, from one of the list of references shared here (https://github.com/geckohooks/digitalDesignEducation/blob/main/README.md), and write 300 words describing and analysing the project. You also need to find 1 or 2 images of the artwork. 
 
 ### What's Meant by Description and Analysis?
+Maybe this sounds like a stupid question - we all know what these terms mean right? It's true that description is about saying what you see - i.e. a "spoken or written account of a person, object, or event". But what is its role here? 
 
+The idea of this timeline is to inform others (who perhaps don't know anything about the history of Code Art / Creative Coding) about this artwork. The audience have probably never seen the artwork, or heard of the artist, and they may even find the idea that art can be made on computers to be baffling! As such, please include some basic information about the artwork - title, date, artist, format, any links if they exist. Since you're going to include images of the work, you don't need to reiterate what the reader can already see. But often creative coding is made using processes that aren't immediately obvious - so describing process or intentions of the artist is useful. Don't go into lots of biographical detail about the artist. This task is about the artwork and the craft of creative coding, not the people per se.
+
+What about analysis? If description is about 'what', then analysis is about 'so what'. In other words, it explains the impact or consequence of a given situation.
 
 ### Being Methodical
 In order for this submission to be high quality, it will need to be planned, researched, edited... and importantly, discussed with your tutor at every stage. Please follow these steps:
